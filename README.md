@@ -18,7 +18,7 @@ Flash the image onto an SD card for your Raspberry Pi older ones still work they
 5. A mouse
 6. A headset or a speaker to connect to the RPi 3.5mm headset jack
 7. A device to use to flash the image onto the SD card
-8. A copy of the image available [here] 
+8. A copy of the image available [here] (https://mega.nz/#!aNslyCTK!ZszzqkX8FFBiM7ojwSsRLXmTWik0kGQQqNqiG6-LR8Q)
 
 ## Feedback
 Please leave feedback and issues that you find, it has only had a limited amount of testing so far.
